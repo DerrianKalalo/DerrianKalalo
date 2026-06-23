@@ -27,7 +27,7 @@ I might not be an expert yet, but I have a huge curiosity and I'm eager to build
 
 - 🔭 **Current Focus:** Surviving college assignments & learning Full-Stack Web Development!
 - 🌱 **Currently exploring:** React, Tailwind, and the basics of Backend (Node.js/NestJS).
-- 🎯 **2024 Goal:** Build my first complete web application and push more code to GitHub.
+- 🎯 **2026 Goal:** Build my first complete web application and push more code to GitHub.
 - ⚡ **Fun fact:** I'm also the President of the UHS Publication Team! (I like balancing tech with media & leadership).
 
 <br/>
