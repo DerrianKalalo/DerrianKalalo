@@ -9,7 +9,7 @@
   
   <!-- Neon Purple Typing Effect -->
   <a href="https://github.com/DerrianKalalo">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=24&pause=1000&color=B026FF&background=0D1117&center=true&vCenter=true&width=600&lines=>_+$+whoami;IT+Freshman+@+President+University;Cyber+Security+Enthusiast;Future+Full-Stack+Developer;Hacking+my+way+through+college!..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&size=24&pause=1000&color=B026FF&background=0D1117&center=true&vCenter=true&width=600&lines=>_+$+whoami;IT+Freshman+@+President+University;Level+1+Noob;0+Basics,+100%25+Curiosity;Figuring+out+how+code+works!..." alt="Typing SVG" />
   </a>
   
   <br/><br/>
@@ -24,41 +24,39 @@
 
 <br/>
 
-## 👨‍💻 About My Matrix
+## 👨‍💻 About My Journey
 
-Hello! I'm a **first-year IT (Cyber Security) student** at President University in Indonesia. I'm currently at the very beginning of my tech journey, exploring everything from building basic websites to understanding how networks and security work. 
+Hello! I'm a **first-year IT (Cyber Security) student** at President University in Indonesia. To be completely honest, I am starting from absolute zero! I have 0 basic knowledge in IT, but I brought 100% curiosity to figure it all out.
 
-I might not be an expert yet, but I have a huge curiosity and I'm eager to build cool things along the way!
+Right now, I am just exploring everything. Every syntax error is a new lesson, and my biggest achievement so far is probably printing `"Hello, World!"` successfully.
 
-- 🔭 **Current Focus:** Surviving college assignments & learning Full-Stack Web Development!
-- 🌱 **Currently exploring:** React, Tailwind, and Backend basics (Node.js/NestJS).
-- 🎯 **2024 Goal:** Build my first complete web application and push more code to GitHub.
-- ⚡ **Fun fact:** I'm also the President of the UHS Publication Team! (Balancing tech with media).
+- 🔭 **Current Focus:** Surviving my first year of college and not breaking my laptop.
+- 🌱 **Currently exploring:** The absolute basics of coding, how the internet works, and basic Cyber Security concepts.
+- 🎯 **2024 Goal:** Build a simple website from scratch and actually understand what I'm typing.
+- ⚡ **Fun fact:** Outside of my confusing coding journey, I am the President of the UHS Publication Team!
 
 <br/>
 
-## 🔋 My Learning Arsenal
+## 🔋 My Starter Kit
 
-> *Loading skills... ████████▒▒ 80%*
+> *Loading skills... █▒▒▒▒▒▒▒▒▒ 5%*
+
+Since I'm just starting, my toolkit is very small. I am currently learning how to use these:
 
 <div align="center">
   
-  ### 🌐 Web Development
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-  ### 🐧 Cyber & Environment Tools
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   
 </div>
 
 <br/>
 
-## 📈 My Journey in Numbers
+## 📈 My (Slowly Growing) Numbers
+
+*Everyone starts at zero, including me! Let's watch these numbers grow over the next 4 years.* 🔮
 
 <br/>
 
@@ -84,5 +82,5 @@ I might not be an expert yet, but I have a huge curiosity and I'm eager to build
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" /> <i>"Hacking reality, one line of code at a time."</i> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" /> <i>"Currently converting caffeine into my first lines of code."</i> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" />
 </p>
