@@ -4,7 +4,7 @@
   
   <!-- Animated Typing Effect -->
   <a href="https://github.com/DerrianKalalo">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Student+Builder;Cyber+Security+Student;Full-Stack+Developer;Building+real-world+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=IT+Freshman+@+President+University;Cyber+Security+Enthusiast;Learning+Full-Stack+Web;Hello,+World!" alt="Typing SVG" />
   </a>
   
   <br/>
@@ -21,48 +21,41 @@
 
 ## 👨‍💻 About Me
 
-I'm an **IT (Cyber Security) student at President University** in Indonesia, operating as a **Student Builder**. Rather than just learning theory, I focus on building and deploying real-world systems—especially for educational organizations. My approach combines project management and leadership with full-stack development and DevOps.
+Hello! I'm a **first-year IT (Cyber Security) student** at President University in Indonesia. I'm currently at the very beginning of my tech journey, exploring everything from building basic websites to understanding how networks and security work. 
 
-- 🔭 **Currently building:** Real-world full-stack applications (Work in progress!)
-- 🌱 **Currently learning:** NestJS, Docker, VPS Deployment, and Advanced DevOps.
-- 🎯 **Goal:** Looking to collaborate on open-source projects and seeking software engineering or DevOps internships.
-- ⚡ **Fun fact:** I served as the President of the UHS Publication Team, combining tech with media leadership.
+I might not be an expert yet, but I have a huge curiosity and I'm eager to build cool things along the way!
+
+- 🔭 **Current Focus:** Surviving college assignments & learning Full-Stack Web Development!
+- 🌱 **Currently exploring:** React, Tailwind, and the basics of Backend (Node.js/NestJS).
+- 🎯 **2024 Goal:** Build my first complete web application and push more code to GitHub.
+- ⚡ **Fun fact:** I'm also the President of the UHS Publication Team! (I like balancing tech with media & leadership).
 
 <br/>
 
-## 🛠️ Tech Stack & Arsenal
+## 🎒 My Learning Backpack
 
-> **Core Focus:** TypeScript ecosystem, Scalable Backends, and Modern Deployment.
+> Just starting out, but here are the tools I'm currently playing around with!
 
 <div align="center">
   
-  ### Frontend
+  ### 🌐 Web Development (Learning Phase)
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-
-  ### Backend & Database
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 
-  ### DevOps, Cloud & AI
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  ### 🐧 Tools & Environment I'm Exploring
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  
 </div>
 
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 My Journey in Numbers
+
+*The stats might be small now, but we all start somewhere!* 🌱
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DerrianKalalo&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Derrian's Trophies" />
@@ -75,13 +68,9 @@ I'm an **IT (Cyber Security) student at President University** in Indonesia, ope
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DerrianKalalo&theme=tokyonight&hide_border=true&background=0D1117" alt="Derrian's GitHub Streak" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerrianKalalo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
-
 <br/>
 
-## ⚡ Activity Graph
+## ⚡ GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerrianKalalo&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
@@ -90,5 +79,5 @@ I'm an **IT (Cyber Security) student at President University** in Indonesia, ope
 <br/>
 
 <p align="center">
-  <i>"Building systems today for a more secure tomorrow."</i>
+  <i>"Every pro was once a beginner." 🚀</i>
 </p>
