@@ -32,7 +32,7 @@ Right now, I am just exploring everything. Every syntax error is a new lesson, a
 
 - 🔭 **Current Focus:** Surviving my first year of college and not breaking my laptop.
 - 🌱 **Currently exploring:** The absolute basics of coding, how the internet works, and basic Cyber Security concepts.
-- 🎯 **2024 Goal:** Build a simple website from scratch and actually understand what I'm typing.
+- 🎯 **2026 Goal:** Build a simple website from scratch and actually understand what I'm typing.
 - ⚡ **Fun fact:** Outside of my confusing coding journey, I am the President of the UHS Publication Team!
 
 <br/>
