@@ -1,10 +1,15 @@
 <div align="center">
   
-  <h1>Hi there, I'm Derrian Kalalo 👋</h1>
+  <h1>Hi there, I'm Derrian Kalalo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" /></h1>
   
-  <!-- Animated Typing Effect -->
+  <!-- Cool Cyber Security / Coding GIF -->
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Boy Animation" width="300" />
+
+  <br/><br/>
+  
+  <!-- Animated Typing Effect (Terminal Vibe) -->
   <a href="https://github.com/DerrianKalalo">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=IT+Freshman+@+President+University;Cyber+Security+Enthusiast;Learning+Full-Stack+Web;Hello,+World!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&width=500&lines=>_+$+whoami;IT+Freshman+@+President+University;Cyber+Security+Enthusiast;Future+Full-Stack+Developer;sudo+apt+get+coffee..." alt="Typing SVG" />
   </a>
   
   <br/>
@@ -27,7 +32,7 @@ I might not be an expert yet, but I have a huge curiosity and I'm eager to build
 
 - 🔭 **Current Focus:** Surviving college assignments & learning Full-Stack Web Development!
 - 🌱 **Currently exploring:** React, Tailwind, and the basics of Backend (Node.js/NestJS).
-- 🎯 **2026 Goal:** Build my first complete web application and push more code to GitHub.
+- 🎯 **2024 Goal:** Build my first complete web application and push more code to GitHub.
 - ⚡ **Fun fact:** I'm also the President of the UHS Publication Team! (I like balancing tech with media & leadership).
 
 <br/>
@@ -73,11 +78,16 @@ I might not be an expert yet, but I have a huge curiosity and I'm eager to build
 ## ⚡ GitHub Activity
 
 <div align="center">
+  <!-- Glowing Animated Line Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DerrianKalalo&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Contribution Graph" width="100%" />
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
 <br/>
 
 <p align="center">
-  <i>"Every pro was once a beginner." 🚀</i>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" /> <i>"Every pro was once a beginner."</i> <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" />
 </p>
