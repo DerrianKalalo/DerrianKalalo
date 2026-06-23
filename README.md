@@ -1,14 +1,13 @@
-<!-- 
-  Hi Derrian! 
-  Copy everything below this block and paste it into your README.md.
-  Make sure your repository is named exactly "DerrianKalalo" and is set to Public.
--->
-
-<!-- Hero Section with Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=200&section=header&text=Hi,%20I'm%20Derrian%20Kalalo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Builder%20%7C%20Cyber%20Security%20%26%20Full-Stack&descAlignY=58&descAlign=50" width="100%" />
-
-  <h3>Building real-world systems for the modern web</h3>
+  
+  <h1>Hi there, I'm Derrian Kalalo 👋</h1>
+  
+  <!-- Animated Typing Effect -->
+  <a href="https://github.com/DerrianKalalo">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Student+Builder;Cyber+Security+Student;Full-Stack+Developer;Building+real-world+systems" alt="Typing SVG" />
+  </a>
+  
+  <br/>
   
   <p align="center">
     <a href="https://linkedin.com/in/derriankalalo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -90,7 +89,6 @@ I'm an **IT (Cyber Security) student at President University** in Indonesia, ope
 
 <br/>
 
-<!-- Footer Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=100&section=footer" width="100%" />
-</div>
+<p align="center">
+  <i>"Building systems today for a more secure tomorrow."</i>
+</p>
